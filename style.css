@@ -1,0 +1,21 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 10px;
+    text-align: center;
+    background-color: rgb(30, 145, 177);
+
+}
+
+input,
+button {
+    margin: 40px;
+    padding: 30px;
+    color: rgb(22, 229, 22);
+    background-color: rgb(20, 21, 40);
+    cursor: pointer;
+}
+
+.result {
+    margin-top: 80px;
+
+}
